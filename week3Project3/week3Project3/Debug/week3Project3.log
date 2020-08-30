@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\KIRTTIPHOOM\source\week3Project3\week3Project3\Source.cpp(4,12): warning C4101: 'j': unreferenced local variable
+  week3Project3.vcxproj -> C:\Users\KIRTTIPHOOM\source\week3Project3\Debug\week3Project3.exe
